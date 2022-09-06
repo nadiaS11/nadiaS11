@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Nadia
+- 👋 Hi, This is Nadia
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Pyton
-- 💞️ I’m looking to collaborate on SPSS projects
-- 💬 Talk Statistics to me!
+- 🌱 I’m currently learning Pyton and SQl
+- 💞️ I’m looking to collaborate on data visualization projects 
+- 💬 Talk Data to me!
 - 📫 How to reach me : [Linkedin](www.linkedin.com/in/nadia-ns11), [Facebook](https://www.facebook.com/nadia.ns11)
 - 
 
