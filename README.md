@@ -1,8 +1,7 @@
 - 👋 Hi, This is Nadia
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Pyton and SQl
-- 💞️ I’m looking to collaborate on data visualization projects 
-- 💬 Talk Data to me!
+- 👀 I’m interested in Code & Analytics
+- 🌱 I’m currently learning Javascript, Python, and SQL
+- 💞️ I want to collaborate on related projects with HTML, CSS, and Javascript.
 - 📫 How to reach me : [Linkedin](www.linkedin.com/in/nadia-ns11), [Facebook](https://www.facebook.com/nadia.ns11)
 - 
 
