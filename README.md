@@ -1,6 +1,6 @@
 - 👋 Hi, This is Nadia
-- 👀 I’m interested in Code & Analytics
-- 🌱 I’m currently learning Javascript, Python, and SQL
+- 👀 I’m interested in Coding, Writing & Analytics
+- 🌱 I’m currently learning Javascript and React
 - 💞️ I want to collaborate on related projects with HTML, CSS, and Javascript.
 - 📫 How to reach me : [Linkedin](www.linkedin.com/in/nadia-ns11), [Facebook](https://www.facebook.com/nadia.ns11)
   
