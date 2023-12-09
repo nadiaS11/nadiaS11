@@ -94,6 +94,6 @@
   - Frontend: JavaScript, React.js, Tailwind CSS
   - Backend: Node.js, Express.js
   - Database: MongoDB,
-  - Authentication: Firebase Authentication with JWT set at cookies
+  - Authentication: Firebase Authentication 
 - [Client Site](https://github.com/nadiaS11/brand-shop-client) - [Server Site](https://github.com/nadiaS11/assignment-10-brand-shop-server) - [Live Demo](https://nadtech-86358.web.app)
 
