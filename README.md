@@ -4,19 +4,18 @@
 
 
 <h1 align="center">Hello 👋, I'm Nadia Sultana</h1>
-- 🔭 I’m currently working on **my portfolio.**
 
-- 🌱 I’m currently learning **Next.js and Mongoose.**
+- 🌱 I’m currently learning - **Next.js and Mongoose.**
 
-- 👯 I’m looking to collaborate on **MERN Stack projects.**
+- 👯 I’m looking to collaborate on - **MERN Stack projects.**
 
 - 📝 I regularly write articles on [https://medium.com/@nadia-sultana](https://medium.com/@nadia-sultana)
 
 - 💬 Ask me about **MongoDB, Express.js, React, and Node.js**
 
-- 📫 How to reach me **nadiasultana.ns11@gmail.com**
+- 📫 How to reach me - **nadiasultana.ns11@gmail.com**
 
-- ⚡ Fun fact **I am also a freelance content writer.**
+- ⚡ Fun fact - **I am also a freelance content writer.**
 
 
 ## :chart_with_upwards_trend: Current Stats
@@ -44,6 +43,8 @@
 <br/>
 
 <p align="center">
+  <a href="https://github.com/nadiaS11">
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadiaS11&theme=dark)
 
@@ -52,4 +53,4 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadiaS11&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nadiaS11&theme=dark&utcOffset=8)
-</p>
+   </a> </p>
