@@ -45,16 +45,6 @@
  
  
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadiaS11&theme=dark)
- 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nadiaS11&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nadiaS11&theme=dark)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadiaS11&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nadiaS11&theme=dark&utcOffset=8)
-
-
-
 ##  📚Summary of My Profile
 
 <div align="center">
@@ -70,3 +60,40 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nadiaS11&theme=dark&utcOffset=8" width="400"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadiaS11&theme=dark" width="900"/>
 </div>
+
+
+## 🔥 Recent Projects
+
+### ⏳ Contest Hosting Website
+
+- **Description:** A dynamic contest hosting platform enabling creators to host and judge competitions. Users participate in diverse contests, showcasing skills and vying for victory and win awards.
+- **Technologies Used:**
+  - Frontend: JavaScript, React.js, Tailwind CSS, Material UI, Headless UI, Framer
+  - Backend: Express.js, Node.js
+  - Database: MongoDB
+  - Authentication: Firebase Authentication with JWT set at cookies
+
+ - **Current Status:** Updating the project to enhance user experience and add more features.
+
+- [Client Site](https://github.com/nadiaS11/contestHub-client-side) - [Server Site](https://github.com/nadiaS11/assignment-12-server) - [Live Demo](https://contesthub-project.web.app)
+
+### :fork_and_knife: Restaurant Management Website
+
+- **Description:** A dynamic Restaurant Management Website for users can see and order food Items, and add, delete, or modify a food item. Users also have their foodie profiles to show all their food posts.
+
+- **Technologies Used:**
+  - Frontend: JavaScript, React.js, Tailwind CSS
+  - Backend: Node.js, Express.js
+  - Database: MongoDB
+  - Authentication: Firebase Authentication with JWT set at cookies
+- [Client Site](https://github.com/nadiaS11/namkeen-project-client-side) - [Server Site](https://github.com/nadiaS11/assignment-11-server) - [Live Demo](https://namkeen-project.web.app)
+
+### 💻 Tech Brand Based Website
+- **Description:** A tech brand-based website to add , update , delete or order a product
+- **Technologies Used:**
+  - Frontend: JavaScript, React.js, Tailwind CSS
+  - Backend: Node.js, Express.js
+  - Database: MongoDB,
+  - Authentication: Firebase Authentication with JWT set at cookies
+- [Client Site](https://github.com/nadiaS11/brand-shop-client) - [Server Site](https://github.com/nadiaS11/assignment-10-brand-shop-server) - [Live Demo](https://nadtech-86358.web.app)
+
