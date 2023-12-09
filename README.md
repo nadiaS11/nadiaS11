@@ -28,7 +28,7 @@
 <h3 align="center">Connect with me:</h3> <br/>
 <p  align="center">
 <a href="https://linkedin.com/in/nadia-ns11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@nadia-ns11" height="30" width="40" /></a>
-<a href="https://fb.com/@nadia.ns11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@nadia.ns11" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nadia.ns11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@nadia.ns11" height="30" width="40" /></a>
 <a href="https://medium.com/@nadia-sultana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nadia-sultana" height="30" width="40" /></a>
 </p>
 <br/>
