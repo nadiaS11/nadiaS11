@@ -3,7 +3,7 @@
 </a>
 
 
-<h1 align="center">Hello 👋, I'm Nadia Sultana</h1>
+<h1 align="left">Hello 👋, I'm Nadia Sultana</h1>
 
 - 🌱 I’m currently learning - **Next.js and Mongoose.**
 
