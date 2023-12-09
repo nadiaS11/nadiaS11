@@ -71,6 +71,20 @@
   </a>
 </p>
 <br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadiaS11&theme=dark)
 
-<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadias11&show_icons=true&locale=en&layout=compact" alt="nadias11" /></p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadiaS11&theme=dark)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nadiaS11&theme=dark)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nadiaS11&theme=dark)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadiaS11&theme=dark)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nadiaS11&theme=dark&utcOffset=8)
 
