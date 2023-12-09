@@ -43,8 +43,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/nadiaS11">
-
+ 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadiaS11&theme=dark)
 
@@ -53,4 +52,4 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadiaS11&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nadiaS11&theme=dark&utcOffset=8)
-   </a> </p>
+  </p>
