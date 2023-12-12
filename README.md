@@ -86,7 +86,7 @@
   - Backend: Node.js, Express.js
   - Database: MongoDB
   - Authentication: Firebase Authentication with JWT set at cookies
-- [Client Site](https://github.com/nadiaS11/namkeen-project-client-side) - [Server Site](https://github.com/nadiaS11/assignment-11-server) - [Live Demo](https://namkeen-project.web.app)
+- [Client Site](https://github.com/nadiaS11/namkeen-project-client-side) - [Server Site](https://github.com/nadiaS11/namkeen-server) - [Live Demo](https://namkeen-project.web.app)
 
 ### 💻 Tech Brand Based Website
 - **Description:** A tech brand-based website to add , update , delete or order a product
@@ -95,5 +95,5 @@
   - Backend: Node.js, Express.js
   - Database: MongoDB,
   - Authentication: Firebase Authentication 
-- [Client Site](https://github.com/nadiaS11/brand-shop-client) - [Server Site](https://github.com/nadiaS11/assignment-10-brand-shop-server) - [Live Demo](https://nadtech-86358.web.app)
+- [Client Site](https://github.com/nadiaS11/brand-shop-client) - [Server Site](https://github.com/nadiaS11/brand-shop-server) - [Live Demo](https://nadtech-86358.web.app)
 
