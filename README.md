@@ -77,6 +77,7 @@
 
 
 
+
 ### :fork_and_knife: Restaurant Management Website | [Client Site](https://github.com/nadiaS11/namkeen-project-client-side) - [Server Site](https://github.com/nadiaS11/namkeen-server) - [Live Demo](https://namkeen-project.web.app)
 
 
@@ -87,6 +88,8 @@
   - Backend: Node.js, Express.js
   - Database: MongoDB
   - Authentication: Firebase Authentication with JWT set at cookies
+
+
 
 ### 💻 Tech Brand Based Website | [Client Site](https://github.com/nadiaS11/brand-shop-client) - [Server Site](https://github.com/nadiaS11/brand-shop-server) - [Live Demo](https://nadtech-86358.web.app)
 
