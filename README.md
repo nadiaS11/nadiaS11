@@ -75,7 +75,7 @@
 
  - **Current Status:** Updating the project to enhance user experience and add more features.
 
-- [Client Site](https://github.com/nadiaS11/contestHub-client-side) - [Server Site](https://github.com/nadiaS11/assignment-12-server) - [Live Demo](https://contesthub-project.web.app)
+- [Client Site](https://github.com/nadiaS11/contestHub-client-side) - [Server Site](https://github.com/nadiaS11/contestHub-server) - [Live Demo](https://contesthub-project.web.app)
 
 ### :fork_and_knife: Restaurant Management Website
 
