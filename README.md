@@ -64,7 +64,7 @@
 
 ## 🔥 Recent Projects
 
-### ⏳ Contest Hosting Website
+### ⏳ Contest Hosting Website | [Client Site](https://github.com/nadiaS11/contestHub-client-side) - [Server Site](https://github.com/nadiaS11/contestHub-server) - [Live Demo](https://contesthub-project.web.app)
 
 - **Description:** A dynamic contest hosting platform enabling creators to host and judge competitions. Users participate in diverse contests, showcasing skills and vying for victory and win awards.
 - **Technologies Used:**
@@ -75,9 +75,10 @@
 
  - **Current Status:** Updating the project to enhance user experience and add more features.
 
-- [Client Site](https://github.com/nadiaS11/contestHub-client-side) - [Server Site](https://github.com/nadiaS11/contestHub-server) - [Live Demo](https://contesthub-project.web.app)
 
-### :fork_and_knife: Restaurant Management Website
+
+### :fork_and_knife: Restaurant Management Website | [Client Site](https://github.com/nadiaS11/namkeen-project-client-side) - [Server Site](https://github.com/nadiaS11/namkeen-server) - [Live Demo](https://namkeen-project.web.app)
+
 
 - **Description:** A dynamic Restaurant Management Website for users can see and order food Items, and add, delete, or modify a food item. Users also have their foodie profiles to show all their food posts.
 
@@ -86,14 +87,13 @@
   - Backend: Node.js, Express.js
   - Database: MongoDB
   - Authentication: Firebase Authentication with JWT set at cookies
-- [Client Site](https://github.com/nadiaS11/namkeen-project-client-side) - [Server Site](https://github.com/nadiaS11/namkeen-server) - [Live Demo](https://namkeen-project.web.app)
 
-### 💻 Tech Brand Based Website
+### 💻 Tech Brand Based Website | [Client Site](https://github.com/nadiaS11/brand-shop-client) - [Server Site](https://github.com/nadiaS11/brand-shop-server) - [Live Demo](https://nadtech-86358.web.app)
+
 - **Description:** A tech brand-based website to add , update , delete or order a product
 - **Technologies Used:**
   - Frontend: JavaScript, React.js, Tailwind CSS
   - Backend: Node.js, Express.js
   - Database: MongoDB,
   - Authentication: Firebase Authentication 
-- [Client Site](https://github.com/nadiaS11/brand-shop-client) - [Server Site](https://github.com/nadiaS11/brand-shop-server) - [Live Demo](https://nadtech-86358.web.app)
 
