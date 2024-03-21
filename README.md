@@ -62,7 +62,19 @@
 </div>
 
 
-## 🔥 Recent Projects
+## 🔥 Team Project
+
+### ⏳ Contest Hosting Website | [Client](https://github.com/DevDynasty0/Vibin--social-media-platform) - [Server Site](https://github.com/DevDynasty0/Vibin--social-media-platform-backend) - [Live Demo](https://vibin1.netlify.app)
+
+- **Description:** A Social Media & Communication Platform with AI-powered content creation system with caption and image. Users can post, interact, and make friends along with Real-time notification and messaging system.
+- **Technologies Used:**
+  - Frontend: Redux, ReactJS, Socket IO, Chakra UI, Tailwind CSS, 
+  - Backend: Express.js, Node.js, Socket IO, Multer, Cloudinary OpenAI
+  - Database: Mongoose
+  - Authentication: Authentication with JWT set at cookies
+
+
+## 🔥 Personal Projects
 
 ### ⏳ Contest Hosting Website | [Client Site](https://github.com/nadiaS11/contestHub-client-side) - [Server Site](https://github.com/nadiaS11/contestHub-server) - [Live Demo](https://contesthub-project.web.app)
 
