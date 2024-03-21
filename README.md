@@ -64,7 +64,7 @@
 
 ## 🔥 Team Project
 
-### ⏳ Contest Hosting Website | [Client](https://github.com/DevDynasty0/Vibin--social-media-platform) - [Server Site](https://github.com/DevDynasty0/Vibin--social-media-platform-backend) - [Live Demo](https://vibin1.netlify.app)
+### ⏳ Vibin' - Ai-Powered Social Media | [Client](https://github.com/DevDynasty0/Vibin--social-media-platform) - [Server Site](https://github.com/DevDynasty0/Vibin--social-media-platform-backend) - [Live Demo](https://vibin1.netlify.app)
 
 - **Description:** A Social Media & Communication Platform with AI-powered content creation system with caption and image. Users can post, interact, and make friends along with Real-time notification and messaging system.
 - **Technologies Used:**
